@@ -1,0 +1,24 @@
+Supplier Risk Review — Apex Materials 42
+Supplier ID: SUP-0042
+Country: Brazil
+Category: Aerospace
+Annual Spend: $554,696
+
+Financial indicators:
+Financial score 43.9/100, debt ratio 68%, revenue growth 5.8%, cash-flow score 75.8/100.
+
+Operational indicators:
+On-time delivery 71.9%, average delay 8.5 days.
+
+Quality indicators:
+Defect rate 7.90%, quality score 54.2/100.
+
+Compliance indicators:
+Compliance score 74.5/100, audit score 29.5/100, certification status Missing.
+
+Concentration and geographic exposure:
+Geopolitical risk 73.9/100, single-source dependency 68.9%.
+
+Recent events:
+- 2026-04-08: Financial (MEDIUM) — Medium financial event recorded during supplier monitoring.
+- 2026-05-22: Compliance (LOW) — Low compliance event recorded during supplier monitoring.

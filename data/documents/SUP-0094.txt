@@ -1,0 +1,26 @@
+Supplier Risk Review — Summit Materials 94
+Supplier ID: SUP-0094
+Country: Brazil
+Category: Chemicals
+Annual Spend: $4,822,150
+
+Financial indicators:
+Financial score 80.3/100, debt ratio 41%, revenue growth 7.6%, cash-flow score 93.4/100.
+
+Operational indicators:
+On-time delivery 84.8%, average delay 12.1 days.
+
+Quality indicators:
+Defect rate 6.22%, quality score 73.7/100.
+
+Compliance indicators:
+Compliance score 22.1/100, audit score 57.0/100, certification status Missing.
+
+Concentration and geographic exposure:
+Geopolitical risk 56.2/100, single-source dependency 69.9%.
+
+Recent events:
+- 2026-02-04: Delivery (HIGH) — High delivery event recorded during supplier monitoring.
+- 2026-03-03: Financial (LOW) — Low financial event recorded during supplier monitoring.
+- 2026-06-01: Financial (HIGH) — High financial event recorded during supplier monitoring.
+- 2026-07-28: Geopolitical (LOW) — Low geopolitical event recorded during supplier monitoring.

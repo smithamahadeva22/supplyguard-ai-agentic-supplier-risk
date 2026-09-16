@@ -1,0 +1,23 @@
+Supplier Risk Review — Nova Industries 45
+Supplier ID: SUP-0045
+Country: USA
+Category: Metals
+Annual Spend: $7,280,757
+
+Financial indicators:
+Financial score 18.5/100, debt ratio 67%, revenue growth 8.8%, cash-flow score 79.9/100.
+
+Operational indicators:
+On-time delivery 78.1%, average delay 10.1 days.
+
+Quality indicators:
+Defect rate 7.01%, quality score 96.5/100.
+
+Compliance indicators:
+Compliance score 58.6/100, audit score 22.9/100, certification status Missing.
+
+Concentration and geographic exposure:
+Geopolitical risk 87.2/100, single-source dependency 34.9%.
+
+Recent events:
+- 2026-08-28: Financial (HIGH) — High financial event recorded during supplier monitoring.

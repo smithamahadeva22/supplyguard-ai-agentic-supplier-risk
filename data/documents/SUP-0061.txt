@@ -1,0 +1,24 @@
+Supplier Risk Review — Orion Components 61
+Supplier ID: SUP-0061
+Country: Mexico
+Category: Packaging
+Annual Spend: $2,721,011
+
+Financial indicators:
+Financial score 61.2/100, debt ratio 30%, revenue growth 7.0%, cash-flow score 32.9/100.
+
+Operational indicators:
+On-time delivery 68.7%, average delay 12.8 days.
+
+Quality indicators:
+Defect rate 3.25%, quality score 79.5/100.
+
+Compliance indicators:
+Compliance score 64.8/100, audit score 83.0/100, certification status Missing.
+
+Concentration and geographic exposure:
+Geopolitical risk 88.0/100, single-source dependency 78.7%.
+
+Recent events:
+- 2026-05-26: Geopolitical (LOW) — Low geopolitical event recorded during supplier monitoring.
+- 2026-08-18: Compliance (HIGH) — High compliance event recorded during supplier monitoring.

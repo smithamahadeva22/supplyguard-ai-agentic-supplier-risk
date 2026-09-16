@@ -1,0 +1,24 @@
+Supplier Risk Review — Orion Manufacturing 92
+Supplier ID: SUP-0092
+Country: India
+Category: Aerospace
+Annual Spend: $529,141
+
+Financial indicators:
+Financial score 30.6/100, debt ratio 54%, revenue growth -15.2%, cash-flow score 55.3/100.
+
+Operational indicators:
+On-time delivery 91.0%, average delay 4.6 days.
+
+Quality indicators:
+Defect rate 8.41%, quality score 73.1/100.
+
+Compliance indicators:
+Compliance score 29.3/100, audit score 96.1/100, certification status Expiring.
+
+Concentration and geographic exposure:
+Geopolitical risk 39.9/100, single-source dependency 93.8%.
+
+Recent events:
+- 2026-02-20: Financial (MEDIUM) — Medium financial event recorded during supplier monitoring.
+- 2026-03-09: Compliance (LOW) — Low compliance event recorded during supplier monitoring.

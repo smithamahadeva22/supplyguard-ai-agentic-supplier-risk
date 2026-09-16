@@ -1,0 +1,26 @@
+Supplier Risk Review — Prime Components 1
+Supplier ID: SUP-0001
+Country: Mexico
+Category: Metals
+Annual Spend: $1,972,427
+
+Financial indicators:
+Financial score 23.2/100, debt ratio 67%, revenue growth 2.7%, cash-flow score 62.2/100.
+
+Operational indicators:
+On-time delivery 66.1%, average delay 1.9 days.
+
+Quality indicators:
+Defect rate 2.13%, quality score 67.0/100.
+
+Compliance indicators:
+Compliance score 63.8/100, audit score 75.8/100, certification status Missing.
+
+Concentration and geographic exposure:
+Geopolitical risk 43.6/100, single-source dependency 45.4%.
+
+Recent events:
+- 2026-02-11: Delivery (MEDIUM) — Medium delivery event recorded during supplier monitoring.
+- 2026-03-07: Compliance (HIGH) — High compliance event recorded during supplier monitoring.
+- 2026-04-30: Quality (HIGH) — High quality event recorded during supplier monitoring.
+- 2026-07-27: Financial (LOW) — Low financial event recorded during supplier monitoring.

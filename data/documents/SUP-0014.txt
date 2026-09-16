@@ -1,0 +1,24 @@
+Supplier Risk Review — Nova Materials 14
+Supplier ID: SUP-0014
+Country: India
+Category: Packaging
+Annual Spend: $787,726
+
+Financial indicators:
+Financial score 61.7/100, debt ratio 52%, revenue growth 17.5%, cash-flow score 31.3/100.
+
+Operational indicators:
+On-time delivery 89.4%, average delay 4.0 days.
+
+Quality indicators:
+Defect rate 3.49%, quality score 72.4/100.
+
+Compliance indicators:
+Compliance score 43.4/100, audit score 44.7/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 10.7/100, single-source dependency 60.9%.
+
+Recent events:
+- 2026-01-24: Geopolitical (MEDIUM) — Medium geopolitical event recorded during supplier monitoring.
+- 2026-07-27: Geopolitical (MEDIUM) — Medium geopolitical event recorded during supplier monitoring.

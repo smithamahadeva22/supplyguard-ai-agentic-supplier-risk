@@ -1,0 +1,24 @@
+Supplier Risk Review — Vertex Components 35
+Supplier ID: SUP-0035
+Country: Germany
+Category: Plastics
+Annual Spend: $2,008,267
+
+Financial indicators:
+Financial score 39.2/100, debt ratio 65%, revenue growth -13.2%, cash-flow score 18.6/100.
+
+Operational indicators:
+On-time delivery 66.9%, average delay 4.7 days.
+
+Quality indicators:
+Defect rate 8.04%, quality score 69.8/100.
+
+Compliance indicators:
+Compliance score 78.7/100, audit score 28.0/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 55.9/100, single-source dependency 47.2%.
+
+Recent events:
+- 2026-03-07: Compliance (LOW) — Low compliance event recorded during supplier monitoring.
+- 2026-06-15: Quality (MEDIUM) — Medium quality event recorded during supplier monitoring.

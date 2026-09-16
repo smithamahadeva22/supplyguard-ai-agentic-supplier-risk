@@ -1,0 +1,26 @@
+Supplier Risk Review — Prime Systems 24
+Supplier ID: SUP-0024
+Country: Germany
+Category: Metals
+Annual Spend: $6,845,362
+
+Financial indicators:
+Financial score 56.4/100, debt ratio 19%, revenue growth -8.5%, cash-flow score 82.9/100.
+
+Operational indicators:
+On-time delivery 80.5%, average delay 12.1 days.
+
+Quality indicators:
+Defect rate 5.74%, quality score 97.1/100.
+
+Compliance indicators:
+Compliance score 66.4/100, audit score 94.1/100, certification status Expiring.
+
+Concentration and geographic exposure:
+Geopolitical risk 59.0/100, single-source dependency 69.7%.
+
+Recent events:
+- 2026-03-12: Financial (LOW) — Low financial event recorded during supplier monitoring.
+- 2026-04-28: Quality (LOW) — Low quality event recorded during supplier monitoring.
+- 2026-07-15: Quality (HIGH) — High quality event recorded during supplier monitoring.
+- 2026-07-30: Geopolitical (MEDIUM) — Medium geopolitical event recorded during supplier monitoring.

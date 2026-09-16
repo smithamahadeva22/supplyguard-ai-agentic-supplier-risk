@@ -1,0 +1,23 @@
+Supplier Risk Review — Summit Components 20
+Supplier ID: SUP-0020
+Country: Vietnam
+Category: Plastics
+Annual Spend: $1,597,935
+
+Financial indicators:
+Financial score 93.7/100, debt ratio 18%, revenue growth 4.7%, cash-flow score 42.7/100.
+
+Operational indicators:
+On-time delivery 91.7%, average delay 6.8 days.
+
+Quality indicators:
+Defect rate 8.37%, quality score 29.0/100.
+
+Compliance indicators:
+Compliance score 90.2/100, audit score 34.8/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 66.7/100, single-source dependency 5.2%.
+
+Recent events:
+- 2026-03-15: Compliance (LOW) — Low compliance event recorded during supplier monitoring.

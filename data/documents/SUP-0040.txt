@@ -1,0 +1,23 @@
+Supplier Risk Review — Summit Materials 40
+Supplier ID: SUP-0040
+Country: Mexico
+Category: Electronics
+Annual Spend: $866,105
+
+Financial indicators:
+Financial score 68.9/100, debt ratio 75%, revenue growth 4.3%, cash-flow score 16.7/100.
+
+Operational indicators:
+On-time delivery 91.0%, average delay 12.4 days.
+
+Quality indicators:
+Defect rate 4.98%, quality score 79.5/100.
+
+Compliance indicators:
+Compliance score 33.7/100, audit score 60.5/100, certification status Expiring.
+
+Concentration and geographic exposure:
+Geopolitical risk 83.3/100, single-source dependency 21.3%.
+
+Recent events:
+- 2026-09-04: Quality (LOW) — Low quality event recorded during supplier monitoring.

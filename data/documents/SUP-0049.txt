@@ -1,0 +1,24 @@
+Supplier Risk Review — Delta Manufacturing 49
+Supplier ID: SUP-0049
+Country: China
+Category: Electronics
+Annual Spend: $3,805,497
+
+Financial indicators:
+Financial score 94.0/100, debt ratio 36%, revenue growth 18.6%, cash-flow score 70.2/100.
+
+Operational indicators:
+On-time delivery 80.5%, average delay 4.9 days.
+
+Quality indicators:
+Defect rate 8.49%, quality score 86.6/100.
+
+Compliance indicators:
+Compliance score 28.3/100, audit score 49.7/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 56.0/100, single-source dependency 94.3%.
+
+Recent events:
+- 2026-02-08: Delivery (HIGH) — High delivery event recorded during supplier monitoring.
+- 2026-05-10: Delivery (LOW) — Low delivery event recorded during supplier monitoring.

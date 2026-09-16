@@ -1,0 +1,25 @@
+Supplier Risk Review — Delta Industries 95
+Supplier ID: SUP-0095
+Country: USA
+Category: Metals
+Annual Spend: $6,992,594
+
+Financial indicators:
+Financial score 17.5/100, debt ratio 81%, revenue growth -13.8%, cash-flow score 16.5/100.
+
+Operational indicators:
+On-time delivery 75.7%, average delay 2.7 days.
+
+Quality indicators:
+Defect rate 5.93%, quality score 52.0/100.
+
+Compliance indicators:
+Compliance score 80.4/100, audit score 91.8/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 66.5/100, single-source dependency 51.7%.
+
+Recent events:
+- 2026-02-05: Compliance (HIGH) — High compliance event recorded during supplier monitoring.
+- 2026-04-06: Delivery (LOW) — Low delivery event recorded during supplier monitoring.
+- 2026-04-10: Quality (HIGH) — High quality event recorded during supplier monitoring.

@@ -1,0 +1,24 @@
+Supplier Risk Review — Vertex Industries 97
+Supplier ID: SUP-0097
+Country: Brazil
+Category: Plastics
+Annual Spend: $4,124,882
+
+Financial indicators:
+Financial score 89.7/100, debt ratio 71%, revenue growth -7.6%, cash-flow score 24.7/100.
+
+Operational indicators:
+On-time delivery 88.0%, average delay 6.0 days.
+
+Quality indicators:
+Defect rate 8.34%, quality score 83.8/100.
+
+Compliance indicators:
+Compliance score 94.5/100, audit score 82.8/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 13.4/100, single-source dependency 91.0%.
+
+Recent events:
+- 2026-06-08: Financial (MEDIUM) — Medium financial event recorded during supplier monitoring.
+- 2026-09-01: Delivery (MEDIUM) — Medium delivery event recorded during supplier monitoring.

@@ -1,0 +1,24 @@
+Supplier Risk Review — Global Manufacturing 39
+Supplier ID: SUP-0039
+Country: China
+Category: Electronics
+Annual Spend: $600,280
+
+Financial indicators:
+Financial score 39.6/100, debt ratio 67%, revenue growth 3.6%, cash-flow score 38.1/100.
+
+Operational indicators:
+On-time delivery 69.2%, average delay 10.5 days.
+
+Quality indicators:
+Defect rate 6.01%, quality score 93.5/100.
+
+Compliance indicators:
+Compliance score 59.0/100, audit score 58.5/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 57.8/100, single-source dependency 85.0%.
+
+Recent events:
+- 2026-08-11: Compliance (LOW) — Low compliance event recorded during supplier monitoring.
+- 2026-09-02: Financial (MEDIUM) — Medium financial event recorded during supplier monitoring.

@@ -1,0 +1,24 @@
+Supplier Risk Review — Summit Manufacturing 70
+Supplier ID: SUP-0070
+Country: USA
+Category: Aerospace
+Annual Spend: $6,596,681
+
+Financial indicators:
+Financial score 62.8/100, debt ratio 70%, revenue growth 6.6%, cash-flow score 20.3/100.
+
+Operational indicators:
+On-time delivery 68.2%, average delay 10.3 days.
+
+Quality indicators:
+Defect rate 2.56%, quality score 76.5/100.
+
+Compliance indicators:
+Compliance score 71.2/100, audit score 90.7/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 36.7/100, single-source dependency 57.4%.
+
+Recent events:
+- 2026-02-05: Compliance (LOW) — Low compliance event recorded during supplier monitoring.
+- 2026-02-13: Geopolitical (HIGH) — High geopolitical event recorded during supplier monitoring.

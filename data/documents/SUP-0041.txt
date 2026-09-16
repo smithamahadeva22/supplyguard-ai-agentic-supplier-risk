@@ -1,0 +1,23 @@
+Supplier Risk Review — Orion Systems 41
+Supplier ID: SUP-0041
+Country: Vietnam
+Category: Aerospace
+Annual Spend: $3,018,908
+
+Financial indicators:
+Financial score 40.7/100, debt ratio 22%, revenue growth -11.9%, cash-flow score 47.9/100.
+
+Operational indicators:
+On-time delivery 81.8%, average delay 10.1 days.
+
+Quality indicators:
+Defect rate 3.52%, quality score 79.3/100.
+
+Compliance indicators:
+Compliance score 22.9/100, audit score 26.9/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 35.9/100, single-source dependency 92.3%.
+
+Recent events:
+- 2026-06-28: Compliance (LOW) — Low compliance event recorded during supplier monitoring.

@@ -1,0 +1,24 @@
+Supplier Risk Review — Vertex Industries 8
+Supplier ID: SUP-0008
+Country: India
+Category: Metals
+Annual Spend: $7,465,278
+
+Financial indicators:
+Financial score 21.3/100, debt ratio 66%, revenue growth 13.0%, cash-flow score 93.2/100.
+
+Operational indicators:
+On-time delivery 83.1%, average delay 2.3 days.
+
+Quality indicators:
+Defect rate 5.68%, quality score 93.9/100.
+
+Compliance indicators:
+Compliance score 32.9/100, audit score 61.2/100, certification status Missing.
+
+Concentration and geographic exposure:
+Geopolitical risk 43.9/100, single-source dependency 24.1%.
+
+Recent events:
+- 2026-01-31: Financial (HIGH) — High financial event recorded during supplier monitoring.
+- 2026-05-09: Compliance (HIGH) — High compliance event recorded during supplier monitoring.

@@ -1,0 +1,23 @@
+Supplier Risk Review — Apex Systems 11
+Supplier ID: SUP-0011
+Country: Poland
+Category: Electronics
+Annual Spend: $2,185,880
+
+Financial indicators:
+Financial score 57.9/100, debt ratio 25%, revenue growth -11.0%, cash-flow score 52.0/100.
+
+Operational indicators:
+On-time delivery 94.7%, average delay 1.6 days.
+
+Quality indicators:
+Defect rate 6.91%, quality score 86.8/100.
+
+Compliance indicators:
+Compliance score 27.6/100, audit score 70.9/100, certification status Missing.
+
+Concentration and geographic exposure:
+Geopolitical risk 76.9/100, single-source dependency 92.2%.
+
+Recent events:
+- 2026-05-16: Geopolitical (MEDIUM) — Medium geopolitical event recorded during supplier monitoring.

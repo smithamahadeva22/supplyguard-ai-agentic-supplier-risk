@@ -1,0 +1,25 @@
+Supplier Risk Review — Global Industries 72
+Supplier ID: SUP-0072
+Country: Poland
+Category: Aerospace
+Annual Spend: $1,710,656
+
+Financial indicators:
+Financial score 26.0/100, debt ratio 20%, revenue growth 14.1%, cash-flow score 23.1/100.
+
+Operational indicators:
+On-time delivery 91.2%, average delay 12.6 days.
+
+Quality indicators:
+Defect rate 7.53%, quality score 22.9/100.
+
+Compliance indicators:
+Compliance score 46.3/100, audit score 79.8/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 57.8/100, single-source dependency 18.9%.
+
+Recent events:
+- 2026-04-03: Compliance (LOW) — Low compliance event recorded during supplier monitoring.
+- 2026-06-07: Compliance (HIGH) — High compliance event recorded during supplier monitoring.
+- 2026-07-04: Financial (LOW) — Low financial event recorded during supplier monitoring.

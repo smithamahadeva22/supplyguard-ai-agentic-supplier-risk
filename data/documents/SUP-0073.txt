@@ -1,0 +1,24 @@
+Supplier Risk Review — Global Systems 73
+Supplier ID: SUP-0073
+Country: India
+Category: Aerospace
+Annual Spend: $3,155,964
+
+Financial indicators:
+Financial score 34.0/100, debt ratio 46%, revenue growth -7.2%, cash-flow score 74.9/100.
+
+Operational indicators:
+On-time delivery 80.3%, average delay 8.2 days.
+
+Quality indicators:
+Defect rate 2.77%, quality score 83.1/100.
+
+Compliance indicators:
+Compliance score 56.6/100, audit score 85.1/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 64.3/100, single-source dependency 56.3%.
+
+Recent events:
+- 2026-02-04: Compliance (LOW) — Low compliance event recorded during supplier monitoring.
+- 2026-08-31: Financial (LOW) — Low financial event recorded during supplier monitoring.

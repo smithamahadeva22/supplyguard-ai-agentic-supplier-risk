@@ -1,0 +1,26 @@
+Supplier Risk Review — Apex Materials 43
+Supplier ID: SUP-0043
+Country: USA
+Category: Electronics
+Annual Spend: $1,984,925
+
+Financial indicators:
+Financial score 88.0/100, debt ratio 47%, revenue growth -13.5%, cash-flow score 81.6/100.
+
+Operational indicators:
+On-time delivery 81.9%, average delay 10.9 days.
+
+Quality indicators:
+Defect rate 4.42%, quality score 41.3/100.
+
+Compliance indicators:
+Compliance score 85.1/100, audit score 96.5/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 46.5/100, single-source dependency 18.0%.
+
+Recent events:
+- 2026-04-02: Geopolitical (HIGH) — High geopolitical event recorded during supplier monitoring.
+- 2026-04-03: Financial (MEDIUM) — Medium financial event recorded during supplier monitoring.
+- 2026-04-30: Geopolitical (MEDIUM) — Medium geopolitical event recorded during supplier monitoring.
+- 2026-05-01: Delivery (HIGH) — High delivery event recorded during supplier monitoring.

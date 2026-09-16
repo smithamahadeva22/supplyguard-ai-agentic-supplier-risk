@@ -1,0 +1,25 @@
+Supplier Risk Review — Apex Materials 62
+Supplier ID: SUP-0062
+Country: Mexico
+Category: Electronics
+Annual Spend: $1,613,439
+
+Financial indicators:
+Financial score 76.0/100, debt ratio 80%, revenue growth -4.7%, cash-flow score 29.5/100.
+
+Operational indicators:
+On-time delivery 69.9%, average delay 10.0 days.
+
+Quality indicators:
+Defect rate 0.78%, quality score 77.8/100.
+
+Compliance indicators:
+Compliance score 95.8/100, audit score 27.2/100, certification status Missing.
+
+Concentration and geographic exposure:
+Geopolitical risk 27.2/100, single-source dependency 42.8%.
+
+Recent events:
+- 2026-01-26: Financial (LOW) — Low financial event recorded during supplier monitoring.
+- 2026-02-05: Compliance (HIGH) — High compliance event recorded during supplier monitoring.
+- 2026-07-10: Delivery (HIGH) — High delivery event recorded during supplier monitoring.

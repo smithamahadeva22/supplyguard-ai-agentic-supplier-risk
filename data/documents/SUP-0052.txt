@@ -1,0 +1,25 @@
+Supplier Risk Review — Delta Manufacturing 52
+Supplier ID: SUP-0052
+Country: Poland
+Category: Electronics
+Annual Spend: $4,028,648
+
+Financial indicators:
+Financial score 26.3/100, debt ratio 83%, revenue growth 14.7%, cash-flow score 72.9/100.
+
+Operational indicators:
+On-time delivery 98.3%, average delay 14.5 days.
+
+Quality indicators:
+Defect rate 6.88%, quality score 48.5/100.
+
+Compliance indicators:
+Compliance score 81.7/100, audit score 21.1/100, certification status Missing.
+
+Concentration and geographic exposure:
+Geopolitical risk 19.9/100, single-source dependency 38.2%.
+
+Recent events:
+- 2026-01-05: Geopolitical (MEDIUM) — Medium geopolitical event recorded during supplier monitoring.
+- 2026-01-28: Compliance (LOW) — Low compliance event recorded during supplier monitoring.
+- 2026-06-22: Geopolitical (HIGH) — High geopolitical event recorded during supplier monitoring.

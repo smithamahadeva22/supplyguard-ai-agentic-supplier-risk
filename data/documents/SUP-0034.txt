@@ -1,0 +1,24 @@
+Supplier Risk Review — Summit Systems 34
+Supplier ID: SUP-0034
+Country: Poland
+Category: Aerospace
+Annual Spend: $6,357,359
+
+Financial indicators:
+Financial score 43.1/100, debt ratio 47%, revenue growth -6.3%, cash-flow score 33.4/100.
+
+Operational indicators:
+On-time delivery 89.5%, average delay 5.1 days.
+
+Quality indicators:
+Defect rate 6.37%, quality score 94.2/100.
+
+Compliance indicators:
+Compliance score 73.8/100, audit score 34.9/100, certification status Expiring.
+
+Concentration and geographic exposure:
+Geopolitical risk 32.1/100, single-source dependency 58.1%.
+
+Recent events:
+- 2026-05-23: Compliance (MEDIUM) — Medium compliance event recorded during supplier monitoring.
+- 2026-05-24: Compliance (LOW) — Low compliance event recorded during supplier monitoring.

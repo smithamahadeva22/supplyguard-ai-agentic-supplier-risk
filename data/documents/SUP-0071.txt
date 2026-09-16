@@ -1,0 +1,25 @@
+Supplier Risk Review — Summit Manufacturing 71
+Supplier ID: SUP-0071
+Country: USA
+Category: Metals
+Annual Spend: $5,091,567
+
+Financial indicators:
+Financial score 21.8/100, debt ratio 54%, revenue growth 6.5%, cash-flow score 41.3/100.
+
+Operational indicators:
+On-time delivery 69.3%, average delay 10.7 days.
+
+Quality indicators:
+Defect rate 8.06%, quality score 97.8/100.
+
+Compliance indicators:
+Compliance score 91.2/100, audit score 27.3/100, certification status Expiring.
+
+Concentration and geographic exposure:
+Geopolitical risk 50.7/100, single-source dependency 6.6%.
+
+Recent events:
+- 2026-02-12: Quality (LOW) — Low quality event recorded during supplier monitoring.
+- 2026-04-18: Compliance (MEDIUM) — Medium compliance event recorded during supplier monitoring.
+- 2026-05-07: Financial (MEDIUM) — Medium financial event recorded during supplier monitoring.

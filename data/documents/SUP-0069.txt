@@ -1,0 +1,25 @@
+Supplier Risk Review — Apex Systems 69
+Supplier ID: SUP-0069
+Country: Germany
+Category: Plastics
+Annual Spend: $5,175,156
+
+Financial indicators:
+Financial score 27.1/100, debt ratio 19%, revenue growth -14.1%, cash-flow score 86.9/100.
+
+Operational indicators:
+On-time delivery 76.7%, average delay 10.9 days.
+
+Quality indicators:
+Defect rate 4.39%, quality score 33.5/100.
+
+Compliance indicators:
+Compliance score 39.3/100, audit score 54.1/100, certification status Expiring.
+
+Concentration and geographic exposure:
+Geopolitical risk 51.9/100, single-source dependency 59.9%.
+
+Recent events:
+- 2026-03-16: Compliance (LOW) — Low compliance event recorded during supplier monitoring.
+- 2026-07-19: Compliance (MEDIUM) — Medium compliance event recorded during supplier monitoring.
+- 2026-08-19: Delivery (HIGH) — High delivery event recorded during supplier monitoring.

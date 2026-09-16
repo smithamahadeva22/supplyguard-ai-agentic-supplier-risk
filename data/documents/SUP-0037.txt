@@ -1,0 +1,24 @@
+Supplier Risk Review — Nova Materials 37
+Supplier ID: SUP-0037
+Country: USA
+Category: Aerospace
+Annual Spend: $7,721,087
+
+Financial indicators:
+Financial score 83.8/100, debt ratio 84%, revenue growth -6.4%, cash-flow score 64.7/100.
+
+Operational indicators:
+On-time delivery 85.7%, average delay 11.2 days.
+
+Quality indicators:
+Defect rate 8.06%, quality score 36.2/100.
+
+Compliance indicators:
+Compliance score 36.5/100, audit score 71.5/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 29.2/100, single-source dependency 54.7%.
+
+Recent events:
+- 2026-01-11: Geopolitical (HIGH) — High geopolitical event recorded during supplier monitoring.
+- 2026-04-07: Delivery (MEDIUM) — Medium delivery event recorded during supplier monitoring.

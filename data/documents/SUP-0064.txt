@@ -1,0 +1,25 @@
+Supplier Risk Review — Orion Components 64
+Supplier ID: SUP-0064
+Country: Mexico
+Category: Chemicals
+Annual Spend: $5,791,555
+
+Financial indicators:
+Financial score 57.2/100, debt ratio 37%, revenue growth -9.6%, cash-flow score 93.8/100.
+
+Operational indicators:
+On-time delivery 66.9%, average delay 3.5 days.
+
+Quality indicators:
+Defect rate 8.05%, quality score 79.9/100.
+
+Compliance indicators:
+Compliance score 79.6/100, audit score 42.6/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 10.6/100, single-source dependency 72.2%.
+
+Recent events:
+- 2026-02-17: Compliance (MEDIUM) — Medium compliance event recorded during supplier monitoring.
+- 2026-02-28: Compliance (MEDIUM) — Medium compliance event recorded during supplier monitoring.
+- 2026-08-29: Financial (HIGH) — High financial event recorded during supplier monitoring.

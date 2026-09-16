@@ -1,0 +1,23 @@
+Supplier Risk Review — Summit Industries 36
+Supplier ID: SUP-0036
+Country: India
+Category: Plastics
+Annual Spend: $7,994,213
+
+Financial indicators:
+Financial score 24.1/100, debt ratio 20%, revenue growth 0.7%, cash-flow score 61.2/100.
+
+Operational indicators:
+On-time delivery 88.3%, average delay 2.7 days.
+
+Quality indicators:
+Defect rate 6.93%, quality score 94.0/100.
+
+Compliance indicators:
+Compliance score 26.6/100, audit score 39.4/100, certification status Missing.
+
+Concentration and geographic exposure:
+Geopolitical risk 71.2/100, single-source dependency 59.6%.
+
+Recent events:
+- 2026-01-24: Compliance (MEDIUM) — Medium compliance event recorded during supplier monitoring.

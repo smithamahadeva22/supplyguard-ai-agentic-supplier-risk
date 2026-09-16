@@ -1,0 +1,24 @@
+Supplier Risk Review — Vertex Systems 22
+Supplier ID: SUP-0022
+Country: India
+Category: Plastics
+Annual Spend: $2,506,806
+
+Financial indicators:
+Financial score 77.9/100, debt ratio 57%, revenue growth -5.8%, cash-flow score 50.3/100.
+
+Operational indicators:
+On-time delivery 88.0%, average delay 7.9 days.
+
+Quality indicators:
+Defect rate 6.79%, quality score 94.9/100.
+
+Compliance indicators:
+Compliance score 77.4/100, audit score 71.4/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 51.2/100, single-source dependency 62.0%.
+
+Recent events:
+- 2026-02-15: Financial (LOW) — Low financial event recorded during supplier monitoring.
+- 2026-05-16: Geopolitical (MEDIUM) — Medium geopolitical event recorded during supplier monitoring.

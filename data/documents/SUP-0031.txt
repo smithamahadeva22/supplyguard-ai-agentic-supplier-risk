@@ -1,0 +1,25 @@
+Supplier Risk Review — Summit Materials 31
+Supplier ID: SUP-0031
+Country: USA
+Category: Chemicals
+Annual Spend: $3,208,573
+
+Financial indicators:
+Financial score 66.8/100, debt ratio 16%, revenue growth -2.0%, cash-flow score 54.2/100.
+
+Operational indicators:
+On-time delivery 79.7%, average delay 5.8 days.
+
+Quality indicators:
+Defect rate 7.60%, quality score 55.9/100.
+
+Compliance indicators:
+Compliance score 31.9/100, audit score 33.7/100, certification status Missing.
+
+Concentration and geographic exposure:
+Geopolitical risk 87.2/100, single-source dependency 29.3%.
+
+Recent events:
+- 2026-06-23: Quality (HIGH) — High quality event recorded during supplier monitoring.
+- 2026-08-22: Geopolitical (HIGH) — High geopolitical event recorded during supplier monitoring.
+- 2026-08-31: Delivery (HIGH) — High delivery event recorded during supplier monitoring.

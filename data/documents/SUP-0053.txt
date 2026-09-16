@@ -1,0 +1,23 @@
+Supplier Risk Review — Vertex Materials 53
+Supplier ID: SUP-0053
+Country: USA
+Category: Chemicals
+Annual Spend: $7,987,740
+
+Financial indicators:
+Financial score 69.0/100, debt ratio 48%, revenue growth 5.5%, cash-flow score 90.5/100.
+
+Operational indicators:
+On-time delivery 76.2%, average delay 9.3 days.
+
+Quality indicators:
+Defect rate 5.58%, quality score 69.6/100.
+
+Compliance indicators:
+Compliance score 56.2/100, audit score 74.7/100, certification status Expiring.
+
+Concentration and geographic exposure:
+Geopolitical risk 19.3/100, single-source dependency 9.1%.
+
+Recent events:
+- 2026-03-03: Geopolitical (LOW) — Low geopolitical event recorded during supplier monitoring.

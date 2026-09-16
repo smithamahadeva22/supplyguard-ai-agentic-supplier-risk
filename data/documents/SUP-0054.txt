@@ -1,0 +1,24 @@
+Supplier Risk Review — Vertex Systems 54
+Supplier ID: SUP-0054
+Country: Vietnam
+Category: Electronics
+Annual Spend: $2,069,645
+
+Financial indicators:
+Financial score 25.9/100, debt ratio 47%, revenue growth 7.5%, cash-flow score 74.5/100.
+
+Operational indicators:
+On-time delivery 97.2%, average delay 6.6 days.
+
+Quality indicators:
+Defect rate 6.36%, quality score 32.1/100.
+
+Compliance indicators:
+Compliance score 52.4/100, audit score 27.7/100, certification status Expiring.
+
+Concentration and geographic exposure:
+Geopolitical risk 59.3/100, single-source dependency 89.5%.
+
+Recent events:
+- 2026-03-06: Geopolitical (HIGH) — High geopolitical event recorded during supplier monitoring.
+- 2026-07-23: Financial (MEDIUM) — Medium financial event recorded during supplier monitoring.

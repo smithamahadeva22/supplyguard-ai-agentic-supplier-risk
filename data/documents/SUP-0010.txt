@@ -1,0 +1,25 @@
+Supplier Risk Review — Nova Manufacturing 10
+Supplier ID: SUP-0010
+Country: Brazil
+Category: Metals
+Annual Spend: $4,623,422
+
+Financial indicators:
+Financial score 89.8/100, debt ratio 55%, revenue growth -0.0%, cash-flow score 77.8/100.
+
+Operational indicators:
+On-time delivery 92.5%, average delay 3.3 days.
+
+Quality indicators:
+Defect rate 1.00%, quality score 53.6/100.
+
+Compliance indicators:
+Compliance score 53.0/100, audit score 56.4/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 63.9/100, single-source dependency 93.6%.
+
+Recent events:
+- 2026-05-21: Compliance (HIGH) — High compliance event recorded during supplier monitoring.
+- 2026-06-24: Quality (LOW) — Low quality event recorded during supplier monitoring.
+- 2026-07-25: Compliance (HIGH) — High compliance event recorded during supplier monitoring.

@@ -1,0 +1,25 @@
+Supplier Risk Review — Apex Materials 58
+Supplier ID: SUP-0058
+Country: Mexico
+Category: Aerospace
+Annual Spend: $5,496,732
+
+Financial indicators:
+Financial score 19.9/100, debt ratio 49%, revenue growth -2.7%, cash-flow score 69.9/100.
+
+Operational indicators:
+On-time delivery 81.7%, average delay 13.7 days.
+
+Quality indicators:
+Defect rate 0.81%, quality score 26.3/100.
+
+Compliance indicators:
+Compliance score 67.4/100, audit score 25.1/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 59.9/100, single-source dependency 57.7%.
+
+Recent events:
+- 2026-02-28: Geopolitical (LOW) — Low geopolitical event recorded during supplier monitoring.
+- 2026-08-16: Quality (HIGH) — High quality event recorded during supplier monitoring.
+- 2026-08-18: Geopolitical (LOW) — Low geopolitical event recorded during supplier monitoring.

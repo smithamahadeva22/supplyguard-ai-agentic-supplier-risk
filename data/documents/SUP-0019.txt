@@ -1,0 +1,23 @@
+Supplier Risk Review — Orion Components 19
+Supplier ID: SUP-0019
+Country: Brazil
+Category: Metals
+Annual Spend: $1,774,138
+
+Financial indicators:
+Financial score 51.8/100, debt ratio 36%, revenue growth 12.2%, cash-flow score 33.2/100.
+
+Operational indicators:
+On-time delivery 65.8%, average delay 3.3 days.
+
+Quality indicators:
+Defect rate 2.92%, quality score 87.4/100.
+
+Compliance indicators:
+Compliance score 95.4/100, audit score 41.8/100, certification status Missing.
+
+Concentration and geographic exposure:
+Geopolitical risk 42.0/100, single-source dependency 93.3%.
+
+Recent events:
+- 2026-08-28: Geopolitical (LOW) — Low geopolitical event recorded during supplier monitoring.

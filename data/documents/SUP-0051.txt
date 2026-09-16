@@ -1,0 +1,23 @@
+Supplier Risk Review — Global Components 51
+Supplier ID: SUP-0051
+Country: India
+Category: Plastics
+Annual Spend: $6,715,344
+
+Financial indicators:
+Financial score 61.4/100, debt ratio 66%, revenue growth -14.6%, cash-flow score 38.6/100.
+
+Operational indicators:
+On-time delivery 90.4%, average delay 3.0 days.
+
+Quality indicators:
+Defect rate 1.30%, quality score 62.1/100.
+
+Compliance indicators:
+Compliance score 95.8/100, audit score 61.4/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 76.4/100, single-source dependency 28.1%.
+
+Recent events:
+- 2026-07-04: Delivery (HIGH) — High delivery event recorded during supplier monitoring.

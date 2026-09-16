@@ -1,0 +1,23 @@
+Supplier Risk Review — Prime Manufacturing 18
+Supplier ID: SUP-0018
+Country: USA
+Category: Packaging
+Annual Spend: $6,387,073
+
+Financial indicators:
+Financial score 89.4/100, debt ratio 76%, revenue growth 19.1%, cash-flow score 79.9/100.
+
+Operational indicators:
+On-time delivery 95.0%, average delay 0.9 days.
+
+Quality indicators:
+Defect rate 6.31%, quality score 45.9/100.
+
+Compliance indicators:
+Compliance score 92.6/100, audit score 82.6/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 31.3/100, single-source dependency 75.9%.
+
+Recent events:
+- 2026-06-29: Compliance (MEDIUM) — Medium compliance event recorded during supplier monitoring.

@@ -1,0 +1,25 @@
+Supplier Risk Review — Prime Manufacturing 84
+Supplier ID: SUP-0084
+Country: Mexico
+Category: Chemicals
+Annual Spend: $3,843,610
+
+Financial indicators:
+Financial score 64.0/100, debt ratio 64%, revenue growth 19.9%, cash-flow score 31.0/100.
+
+Operational indicators:
+On-time delivery 69.6%, average delay 1.6 days.
+
+Quality indicators:
+Defect rate 1.63%, quality score 75.6/100.
+
+Compliance indicators:
+Compliance score 97.8/100, audit score 83.2/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 63.4/100, single-source dependency 68.9%.
+
+Recent events:
+- 2026-01-07: Quality (MEDIUM) — Medium quality event recorded during supplier monitoring.
+- 2026-05-09: Geopolitical (HIGH) — High geopolitical event recorded during supplier monitoring.
+- 2026-07-17: Compliance (MEDIUM) — Medium compliance event recorded during supplier monitoring.

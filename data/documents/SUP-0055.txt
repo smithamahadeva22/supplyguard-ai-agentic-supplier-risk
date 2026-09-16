@@ -1,0 +1,26 @@
+Supplier Risk Review — Apex Manufacturing 55
+Supplier ID: SUP-0055
+Country: Germany
+Category: Aerospace
+Annual Spend: $3,830,379
+
+Financial indicators:
+Financial score 83.4/100, debt ratio 22%, revenue growth 8.1%, cash-flow score 58.6/100.
+
+Operational indicators:
+On-time delivery 98.2%, average delay 5.7 days.
+
+Quality indicators:
+Defect rate 3.50%, quality score 34.8/100.
+
+Compliance indicators:
+Compliance score 29.5/100, audit score 86.1/100, certification status Expiring.
+
+Concentration and geographic exposure:
+Geopolitical risk 17.3/100, single-source dependency 24.1%.
+
+Recent events:
+- 2026-02-27: Quality (HIGH) — High quality event recorded during supplier monitoring.
+- 2026-05-25: Compliance (MEDIUM) — Medium compliance event recorded during supplier monitoring.
+- 2026-07-31: Financial (HIGH) — High financial event recorded during supplier monitoring.
+- 2026-09-03: Delivery (MEDIUM) — Medium delivery event recorded during supplier monitoring.

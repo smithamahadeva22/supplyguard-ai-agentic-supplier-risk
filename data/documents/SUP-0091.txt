@@ -1,0 +1,24 @@
+Supplier Risk Review — Vertex Systems 91
+Supplier ID: SUP-0091
+Country: India
+Category: Electronics
+Annual Spend: $3,398,754
+
+Financial indicators:
+Financial score 92.3/100, debt ratio 30%, revenue growth -4.6%, cash-flow score 19.0/100.
+
+Operational indicators:
+On-time delivery 81.8%, average delay 13.3 days.
+
+Quality indicators:
+Defect rate 5.63%, quality score 56.7/100.
+
+Compliance indicators:
+Compliance score 61.9/100, audit score 86.1/100, certification status Expiring.
+
+Concentration and geographic exposure:
+Geopolitical risk 20.7/100, single-source dependency 28.8%.
+
+Recent events:
+- 2026-01-27: Delivery (HIGH) — High delivery event recorded during supplier monitoring.
+- 2026-07-12: Quality (MEDIUM) — Medium quality event recorded during supplier monitoring.

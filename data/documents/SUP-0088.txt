@@ -1,0 +1,24 @@
+Supplier Risk Review — Global Industries 88
+Supplier ID: SUP-0088
+Country: Poland
+Category: Packaging
+Annual Spend: $445,562
+
+Financial indicators:
+Financial score 17.3/100, debt ratio 18%, revenue growth 6.4%, cash-flow score 61.1/100.
+
+Operational indicators:
+On-time delivery 87.1%, average delay 11.6 days.
+
+Quality indicators:
+Defect rate 3.66%, quality score 69.8/100.
+
+Compliance indicators:
+Compliance score 58.8/100, audit score 68.9/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 61.4/100, single-source dependency 32.2%.
+
+Recent events:
+- 2026-02-14: Quality (HIGH) — High quality event recorded during supplier monitoring.
+- 2026-03-26: Geopolitical (LOW) — Low geopolitical event recorded during supplier monitoring.

@@ -1,0 +1,25 @@
+Supplier Risk Review — Summit Materials 82
+Supplier ID: SUP-0082
+Country: USA
+Category: Plastics
+Annual Spend: $5,464,257
+
+Financial indicators:
+Financial score 90.8/100, debt ratio 20%, revenue growth 6.2%, cash-flow score 44.1/100.
+
+Operational indicators:
+On-time delivery 92.2%, average delay 10.4 days.
+
+Quality indicators:
+Defect rate 8.11%, quality score 31.1/100.
+
+Compliance indicators:
+Compliance score 67.4/100, audit score 80.9/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 20.1/100, single-source dependency 26.2%.
+
+Recent events:
+- 2026-06-06: Quality (HIGH) — High quality event recorded during supplier monitoring.
+- 2026-06-15: Delivery (HIGH) — High delivery event recorded during supplier monitoring.
+- 2026-09-05: Compliance (MEDIUM) — Medium compliance event recorded during supplier monitoring.

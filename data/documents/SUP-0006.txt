@@ -1,0 +1,25 @@
+Supplier Risk Review — Prime Industries 6
+Supplier ID: SUP-0006
+Country: China
+Category: Chemicals
+Annual Spend: $3,641,334
+
+Financial indicators:
+Financial score 45.8/100, debt ratio 57%, revenue growth -0.2%, cash-flow score 35.1/100.
+
+Operational indicators:
+On-time delivery 83.8%, average delay 14.2 days.
+
+Quality indicators:
+Defect rate 5.85%, quality score 28.9/100.
+
+Compliance indicators:
+Compliance score 89.0/100, audit score 78.6/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 18.9/100, single-source dependency 44.1%.
+
+Recent events:
+- 2026-03-02: Financial (HIGH) — High financial event recorded during supplier monitoring.
+- 2026-03-08: Geopolitical (LOW) — Low geopolitical event recorded during supplier monitoring.
+- 2026-05-30: Financial (MEDIUM) — Medium financial event recorded during supplier monitoring.

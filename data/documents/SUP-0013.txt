@@ -1,0 +1,24 @@
+Supplier Risk Review — Vertex Industries 13
+Supplier ID: SUP-0013
+Country: India
+Category: Packaging
+Annual Spend: $6,271,810
+
+Financial indicators:
+Financial score 74.8/100, debt ratio 19%, revenue growth 4.2%, cash-flow score 55.2/100.
+
+Operational indicators:
+On-time delivery 94.0%, average delay 2.8 days.
+
+Quality indicators:
+Defect rate 8.17%, quality score 26.2/100.
+
+Compliance indicators:
+Compliance score 34.5/100, audit score 66.4/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 42.3/100, single-source dependency 89.7%.
+
+Recent events:
+- 2026-01-30: Geopolitical (MEDIUM) — Medium geopolitical event recorded during supplier monitoring.
+- 2026-08-07: Quality (MEDIUM) — Medium quality event recorded during supplier monitoring.

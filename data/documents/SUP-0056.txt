@@ -1,0 +1,23 @@
+Supplier Risk Review — Apex Components 56
+Supplier ID: SUP-0056
+Country: Poland
+Category: Metals
+Annual Spend: $1,156,326
+
+Financial indicators:
+Financial score 31.4/100, debt ratio 73%, revenue growth 3.1%, cash-flow score 61.9/100.
+
+Operational indicators:
+On-time delivery 92.6%, average delay 3.9 days.
+
+Quality indicators:
+Defect rate 6.63%, quality score 81.5/100.
+
+Compliance indicators:
+Compliance score 66.5/100, audit score 41.6/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 89.0/100, single-source dependency 53.6%.
+
+Recent events:
+- 2026-04-14: Delivery (LOW) — Low delivery event recorded during supplier monitoring.

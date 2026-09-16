@@ -1,0 +1,23 @@
+Supplier Risk Review — Delta Manufacturing 81
+Supplier ID: SUP-0081
+Country: Mexico
+Category: Electronics
+Annual Spend: $6,199,200
+
+Financial indicators:
+Financial score 49.4/100, debt ratio 85%, revenue growth -11.1%, cash-flow score 38.5/100.
+
+Operational indicators:
+On-time delivery 68.5%, average delay 5.3 days.
+
+Quality indicators:
+Defect rate 2.65%, quality score 54.8/100.
+
+Compliance indicators:
+Compliance score 76.0/100, audit score 33.0/100, certification status Expiring.
+
+Concentration and geographic exposure:
+Geopolitical risk 38.1/100, single-source dependency 8.8%.
+
+Recent events:
+- 2026-06-18: Delivery (LOW) — Low delivery event recorded during supplier monitoring.

@@ -1,0 +1,23 @@
+Supplier Risk Review — Summit Systems 98
+Supplier ID: SUP-0098
+Country: Mexico
+Category: Chemicals
+Annual Spend: $4,118,808
+
+Financial indicators:
+Financial score 81.2/100, debt ratio 34%, revenue growth 3.4%, cash-flow score 36.7/100.
+
+Operational indicators:
+On-time delivery 68.7%, average delay 11.2 days.
+
+Quality indicators:
+Defect rate 2.19%, quality score 24.0/100.
+
+Compliance indicators:
+Compliance score 90.6/100, audit score 37.6/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 14.2/100, single-source dependency 42.2%.
+
+Recent events:
+- 2026-02-19: Compliance (LOW) — Low compliance event recorded during supplier monitoring.

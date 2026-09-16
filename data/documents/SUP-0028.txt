@@ -1,0 +1,23 @@
+Supplier Risk Review — Apex Components 28
+Supplier ID: SUP-0028
+Country: USA
+Category: Metals
+Annual Spend: $7,371,676
+
+Financial indicators:
+Financial score 19.0/100, debt ratio 42%, revenue growth -10.0%, cash-flow score 41.1/100.
+
+Operational indicators:
+On-time delivery 90.9%, average delay 6.0 days.
+
+Quality indicators:
+Defect rate 6.44%, quality score 84.9/100.
+
+Compliance indicators:
+Compliance score 39.7/100, audit score 26.4/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 69.9/100, single-source dependency 9.7%.
+
+Recent events:
+- 2026-01-12: Quality (HIGH) — High quality event recorded during supplier monitoring.

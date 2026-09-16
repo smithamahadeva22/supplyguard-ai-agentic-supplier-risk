@@ -1,0 +1,25 @@
+Supplier Risk Review — Prime Materials 30
+Supplier ID: SUP-0030
+Country: India
+Category: Plastics
+Annual Spend: $4,930,133
+
+Financial indicators:
+Financial score 91.7/100, debt ratio 43%, revenue growth 9.2%, cash-flow score 21.1/100.
+
+Operational indicators:
+On-time delivery 88.5%, average delay 9.6 days.
+
+Quality indicators:
+Defect rate 1.05%, quality score 80.3/100.
+
+Compliance indicators:
+Compliance score 86.3/100, audit score 66.8/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 73.7/100, single-source dependency 55.9%.
+
+Recent events:
+- 2026-03-18: Quality (MEDIUM) — Medium quality event recorded during supplier monitoring.
+- 2026-05-14: Quality (HIGH) — High quality event recorded during supplier monitoring.
+- 2026-08-13: Quality (MEDIUM) — Medium quality event recorded during supplier monitoring.

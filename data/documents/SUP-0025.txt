@@ -1,0 +1,23 @@
+Supplier Risk Review — Orion Materials 25
+Supplier ID: SUP-0025
+Country: Brazil
+Category: Metals
+Annual Spend: $6,338,233
+
+Financial indicators:
+Financial score 51.0/100, debt ratio 68%, revenue growth 13.9%, cash-flow score 37.2/100.
+
+Operational indicators:
+On-time delivery 91.4%, average delay 7.5 days.
+
+Quality indicators:
+Defect rate 2.19%, quality score 54.3/100.
+
+Compliance indicators:
+Compliance score 75.7/100, audit score 38.3/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 35.6/100, single-source dependency 53.6%.
+
+Recent events:
+- 2026-04-18: Delivery (HIGH) — High delivery event recorded during supplier monitoring.

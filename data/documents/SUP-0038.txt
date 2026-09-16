@@ -1,0 +1,23 @@
+Supplier Risk Review — Apex Systems 38
+Supplier ID: SUP-0038
+Country: Brazil
+Category: Chemicals
+Annual Spend: $5,081,249
+
+Financial indicators:
+Financial score 17.6/100, debt ratio 35%, revenue growth -7.3%, cash-flow score 83.8/100.
+
+Operational indicators:
+On-time delivery 67.4%, average delay 3.9 days.
+
+Quality indicators:
+Defect rate 2.40%, quality score 81.7/100.
+
+Compliance indicators:
+Compliance score 66.0/100, audit score 82.7/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 44.0/100, single-source dependency 54.0%.
+
+Recent events:
+- 2026-07-05: Quality (HIGH) — High quality event recorded during supplier monitoring.

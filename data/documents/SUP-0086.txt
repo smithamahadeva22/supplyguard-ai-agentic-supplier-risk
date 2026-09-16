@@ -1,0 +1,24 @@
+Supplier Risk Review — Vertex Systems 86
+Supplier ID: SUP-0086
+Country: Brazil
+Category: Packaging
+Annual Spend: $3,545,999
+
+Financial indicators:
+Financial score 80.9/100, debt ratio 20%, revenue growth 19.0%, cash-flow score 66.4/100.
+
+Operational indicators:
+On-time delivery 80.3%, average delay 10.4 days.
+
+Quality indicators:
+Defect rate 3.06%, quality score 88.5/100.
+
+Compliance indicators:
+Compliance score 80.9/100, audit score 69.9/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 71.4/100, single-source dependency 16.6%.
+
+Recent events:
+- 2026-03-31: Geopolitical (MEDIUM) — Medium geopolitical event recorded during supplier monitoring.
+- 2026-04-23: Compliance (LOW) — Low compliance event recorded during supplier monitoring.

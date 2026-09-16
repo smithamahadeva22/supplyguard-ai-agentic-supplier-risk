@@ -1,0 +1,23 @@
+Supplier Risk Review — Global Industries 26
+Supplier ID: SUP-0026
+Country: USA
+Category: Chemicals
+Annual Spend: $1,381,823
+
+Financial indicators:
+Financial score 20.1/100, debt ratio 44%, revenue growth 2.6%, cash-flow score 48.3/100.
+
+Operational indicators:
+On-time delivery 72.0%, average delay 6.6 days.
+
+Quality indicators:
+Defect rate 7.71%, quality score 65.6/100.
+
+Compliance indicators:
+Compliance score 74.3/100, audit score 86.8/100, certification status Missing.
+
+Concentration and geographic exposure:
+Geopolitical risk 40.4/100, single-source dependency 5.5%.
+
+Recent events:
+- 2026-01-18: Quality (LOW) — Low quality event recorded during supplier monitoring.

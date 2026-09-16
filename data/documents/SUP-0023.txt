@@ -1,0 +1,24 @@
+Supplier Risk Review — Prime Industries 23
+Supplier ID: SUP-0023
+Country: Mexico
+Category: Metals
+Annual Spend: $6,865,939
+
+Financial indicators:
+Financial score 17.0/100, debt ratio 32%, revenue growth 0.1%, cash-flow score 83.0/100.
+
+Operational indicators:
+On-time delivery 67.5%, average delay 6.5 days.
+
+Quality indicators:
+Defect rate 5.43%, quality score 35.2/100.
+
+Compliance indicators:
+Compliance score 74.3/100, audit score 58.6/100, certification status Valid.
+
+Concentration and geographic exposure:
+Geopolitical risk 21.8/100, single-source dependency 66.9%.
+
+Recent events:
+- 2026-04-29: Delivery (MEDIUM) — Medium delivery event recorded during supplier monitoring.
+- 2026-07-13: Quality (LOW) — Low quality event recorded during supplier monitoring.

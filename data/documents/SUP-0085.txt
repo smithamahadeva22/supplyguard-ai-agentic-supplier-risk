@@ -1,0 +1,26 @@
+Supplier Risk Review — Vertex Manufacturing 85
+Supplier ID: SUP-0085
+Country: China
+Category: Chemicals
+Annual Spend: $6,052,252
+
+Financial indicators:
+Financial score 66.0/100, debt ratio 71%, revenue growth 1.3%, cash-flow score 24.7/100.
+
+Operational indicators:
+On-time delivery 71.8%, average delay 2.5 days.
+
+Quality indicators:
+Defect rate 6.76%, quality score 22.1/100.
+
+Compliance indicators:
+Compliance score 63.2/100, audit score 48.8/100, certification status Missing.
+
+Concentration and geographic exposure:
+Geopolitical risk 20.4/100, single-source dependency 84.6%.
+
+Recent events:
+- 2026-03-21: Quality (MEDIUM) — Medium quality event recorded during supplier monitoring.
+- 2026-04-17: Delivery (MEDIUM) — Medium delivery event recorded during supplier monitoring.
+- 2026-07-20: Financial (MEDIUM) — Medium financial event recorded during supplier monitoring.
+- 2026-08-01: Delivery (LOW) — Low delivery event recorded during supplier monitoring.
